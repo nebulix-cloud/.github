@@ -50,9 +50,8 @@ We ❤️ community involvement. Contributions will open up as soon as the publi
 
 ## 📣 Stay Connected
 
-- 🌐 Website: [nebulix.cloud](https://nebulix.cloud)  
-- 🐦 Twitter/X: [@nebulixcloud](https://twitter.com/nebulixcloud) *(reserve handle)*  
-- 💼 LinkedIn: [Nebulix](https://linkedin.com/company/nebulix)  
+- 🌐 Website: [nebulix.cloud](https://nebulix.cloud)
+- 💼 LinkedIn: [Nebulix](https://linkedin.com/company/nebulix)
 - 💬 Community (soon): Discord / Slack  
 
 ---
